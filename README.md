@@ -16,7 +16,7 @@ This project focuses on data cleaning using the [Layoffs 2022 dataset](https://w
 5. **Remove Unnecessary Rows and Columns**: Deleted entries that did not contribute useful information and removed temporary columns used during the cleaning process.
 
 ## Final Output
-After the data cleaning process, the final cleaned dataset is available in the `layoffs_staging2` table, ready for exploratory data analysis (EDA) or further processing.
+After the data cleaning process, the final cleaned dataset is available in the `layoffs_staging2` table, ready for [exploratory data analysis(EDA)](https://github.com/khadeejach20/EDA-on-Layoffs-Dataset) or further processing.
 
 ## How to Run
 To execute the SQL queries, you can use any MySQL-compatible database management tool. Load the original dataset into a MySQL database and run the provided SQL scripts sequentially.
